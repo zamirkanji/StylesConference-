@@ -1,0 +1,1 @@
+This project is in the additional section of The Odin Project's website. I am making a website for the annual Styles Conference. 
